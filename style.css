@@ -1,0 +1,19 @@
+h1 {
+    
+}
+.profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+fieldset, legend{
+  border : 10px ridge aqua;
+  padding: 5px 10px;
+  border-radius:45px;
+}
+legend{
+  background-color : darksalmon;
+}    
+fieldset{
+  background-color : rgb(14, 193, 172);
+}
